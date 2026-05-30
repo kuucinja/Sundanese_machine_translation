@@ -1,0 +1,19 @@
+# Data files
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.tsv
+*.pt
+*.zip
+*.safetensors
+
+
+
+# Data folders
+data/
+datasets/
+raw_data/
+processed_data/
+random_data/
+saved_models/
